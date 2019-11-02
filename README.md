@@ -17,7 +17,7 @@ and on [PyPI](https://pypi.org/project/bencode_open/).
 
 Installing `bencode_open` from PyPI is recommended and can be done as follows:
 
-```shell
+```
 pip install bencode_open
 ```
 
@@ -37,6 +37,6 @@ print(bencode_open.loads(b"i17e"))  # Outputs 17
 
 ## Running tests
 
-```shell
+```
 python test.py
 ```
