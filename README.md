@@ -1,24 +1,24 @@
 # bencode
 
-`bencode_open` is an open-source MIT-licensed library for parsing and converting
+`bencode-open` is an open-source MIT-licensed library for parsing and converting
 objects to and from [Bencode format](https://en.wikipedia.org/wiki/Bencode).
 
 
 ## Rationale
 
-`bencode_open` is MIT-licensed and can thus be included to almost all software,
+`bencode-open` is MIT-licensed and can thus be included to almost all software,
 compared to `bencode` and `bencode.py`.
 
 
 ## Installation
 
-`bencode_open` is available on [GitHub](https://github.com/imachug/bencode_open)
-and on [PyPI](https://pypi.org/project/bencode_open/).
+`bencode-open` is available on [GitHub](https://github.com/imachug/bencode-open)
+and on [PyPI](https://pypi.org/project/bencode-open/).
 
-Installing `bencode_open` from PyPI is recommended and can be done as follows:
+Installing `bencode-open` from PyPI is recommended and can be done as follows:
 
 ```
-pip install bencode_open
+pip install bencode-open
 ```
 
 
