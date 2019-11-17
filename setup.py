@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="bencode-open",
-    version="1.1",
+    version="1.2",
     description="bencode parser and converter",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
